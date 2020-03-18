@@ -7,7 +7,7 @@ gem 'html-proofer', '~> 3.0'
 gem 'jekyll', '>=3.1.6'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
-gem 'puma'
+gem 'puma', '>= 3.12.4'
 gem 'pry', group: :test
 gem 'rack-jekyll'
 gem 'rack-ssl-enforcer'
